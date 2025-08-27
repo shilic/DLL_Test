@@ -1,0 +1,5 @@
+特别提醒，我使用的是windows下的gitbash终端进行的GCC编译，mingw64的版本使用的是w64devkit-x64，有了这两样东西之后，你可以直接在windiows环境下，凭借gitbash直接使用linux的命令，非常方便。
+
+本文（project2）是在project3的基础之上，使用了一个特里化的dll，而不是自己生成的dll。这里是使用了周立功CAN卡的二次开发函数库的dll。
+
+使用 process.mk 进行编译，这里采用的是引用头文件的方式

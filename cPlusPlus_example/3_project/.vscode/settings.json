@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"Makefile": "cpp",
+		"makefile": "makefile",
+		"add.h": "c"
+	}
+}

@@ -1,0 +1,1 @@
+project1 这是一个失败的测试项目，因为源代码都是deepseek写的，建议看project2和project3，这两个项目已经测试成功了。
